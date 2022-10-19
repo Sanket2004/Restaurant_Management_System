@@ -32,6 +32,7 @@ int main()
             break;
         case 4:
             printf("\t\t\t\t4 = Total customers of the day.\n");
+
             break;
         case 5:
             printf("\t\t\t\t5 = Highest bill of the day.\n");
@@ -52,3 +53,5 @@ int main()
         }
     }
 }
+
+/* contributers : Suhana Parvin , Sanket Banerjee */
