@@ -14,6 +14,7 @@ int main()
     printf("\t\t\t\t5 = Highest bill of the day.\n");
     printf("\t\t\t\t6 = Customers details.\n");
     printf("\t\t\t\t7 = Food menu.\n");
+    printf("\t\t\t\t8 = Feedback.\n");
 
     for (;;)
     {
@@ -44,6 +45,9 @@ int main()
             printf("\t\t\t\t7 = Food menu.\n");
             break;
         case 8:
+            printf("\t\t\t\t8 = Feedback.\n");
+            break;
+        case 9:
             exit(0);
             break;
 
@@ -54,4 +58,4 @@ int main()
     }
 }
 
-/* contributers : Suhana Parvin , Sanket Banerjee */
+/* contributers : Suhana Parvin , Sanket Banerjee, Mana Panda */
